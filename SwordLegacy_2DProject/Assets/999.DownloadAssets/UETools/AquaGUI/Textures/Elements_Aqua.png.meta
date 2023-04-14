@@ -1,0 +1,659 @@
+fileFormatVersion: 2
+guid: 57f6c2f1c80b7fc49be6faa62213b054
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Item
+  - first:
+      213: 21300002
+    second: Item_Base
+  - first:
+      213: 21300004
+    second: Popup
+  - first:
+      213: 21300006
+    second: Popup_Base
+  - first:
+      213: 21300008
+    second: Popup_Highlights
+  - first:
+      213: 21300010
+    second: Radio
+  - first:
+      213: 21300012
+    second: Radio_Base
+  - first:
+      213: 21300014
+    second: Resource
+  - first:
+      213: 21300016
+    second: Resource_Base
+  - first:
+      213: 21300018
+    second: Resource_Fill
+  - first:
+      213: 21300020
+    second: Resource_Highlights
+  - first:
+      213: 21300022
+    second: Ribbon
+  - first:
+      213: 21300024
+    second: Ribbon_Base
+  - first:
+      213: 21300026
+    second: Ribbon_Highlights
+  - first:
+      213: 21300028
+    second: Scrollbar_Base
+  - first:
+      213: 21300030
+    second: Scrollbar_Handle
+  - first:
+      213: 21300032
+    second: Star
+  - first:
+      213: 21300034
+    second: Star_Base
+  - first:
+      213: 21300036
+    second: Window
+  - first:
+      213: 21300038
+    second: Window_Small
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 54
+  maxTextureSize: 4096
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 16
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 0
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Web
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 5
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 33
+    textureCompression: 0
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 48
+    textureCompression: 0
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Item
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 832
+        width: 204
+        height: 187
+      alignment: 9
+      pivot: {x: 0.49509802, y: 0.51336896}
+      border: {x: 105, y: 96, z: 97, w: 89}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Base
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 1031
+        width: 226
+        height: 208
+      alignment: 9
+      pivot: {x: 0.49557522, y: 0.50961536}
+      border: {x: 116, y: 106, z: 108, w: 100}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popup
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1639
+        width: 873
+        height: 397
+      alignment: 9
+      pivot: {x: 0.49713632, y: 0.52644837}
+      border: {x: 432, y: 197, z: 440, w: 199}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popup_Base
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 693
+        width: 726
+        height: 288
+      alignment: 9
+      pivot: {x: 0.5082645, y: 0.5069444}
+      border: {x: 367, y: 134, z: 358, w: 153}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popup_Highlights
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1251
+        width: 855
+        height: 376
+      alignment: 9
+      pivot: {x: 0.49941522, y: 0.5}
+      border: {x: 425, y: 176, z: 429, w: 199}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Radio
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 1808
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 48, y: 48, z: 48, w: 48}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Radio_Base
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 1918
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 58, y: 58, z: 58, w: 58}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Resource
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 636
+        width: 508
+        height: 184
+      alignment: 9
+      pivot: {x: 0.4980315, y: 0.5326087}
+      border: {x: 252, y: 97, z: 254, w: 85}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Resource_Base
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 30
+        width: 449
+        height: 125
+      alignment: 9
+      pivot: {x: 0.49665925, y: 0.496}
+      border: {x: 222, y: 61, z: 225, w: 62}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Resource_Fill
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 499
+        width: 449
+        height: 125
+      alignment: 9
+      pivot: {x: 0.49665925, y: 0.496}
+      border: {x: 222, y: 61, z: 225, w: 62}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Resource_Highlights
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 510
+        width: 496
+        height: 171
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49707603}
+      border: {x: 247, y: 84, z: 247, w: 85}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribbon
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 993
+        width: 740
+        height: 246
+      alignment: 9
+      pivot: {x: 0.4972973, y: 0.5203252}
+      border: {x: 367, y: 98, z: 371, w: 146}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribbon_Base
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 617
+        width: 655
+        height: 177
+      alignment: 9
+      pivot: {x: 0.49770993, y: 0.4858757}
+      border: {x: 325, y: 56, z: 328, w: 119}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ribbon_Highlights
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 806
+        width: 732
+        height: 236
+      alignment: 9
+      pivot: {x: 0.4986339, y: 0.5}
+      border: {x: 364, y: 88, z: 366, w: 146}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrollbar_Base
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 1542
+        width: 70
+        height: 254
+      alignment: 9
+      pivot: {x: 0.51428574, y: 0.5}
+      border: {x: 31, y: 118, z: 38, w: 135}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrollbar_Handle
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 1818
+        width: 36
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 14, y: 31, z: 21, w: 56}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 167
+        width: 419
+        height: 438
+      alignment: 9
+      pivot: {x: 0.49642006, y: 0.50913244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star_Base
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 78
+        width: 402
+        height: 420
+      alignment: 9
+      pivot: {x: 0.4950249, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Window
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1054
+        width: 978
+        height: 982
+      alignment: 9
+      pivot: {x: 0.49795502, y: 0.50814664}
+      border: {x: 486, y: 498, z: 490, w: 482}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Window_Small
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 113
+        width: 492
+        height: 492
+      alignment: 9
+      pivot: {x: 0.49796748, y: 0.5081301}
+      border: {x: 249, y: 250, z: 246, w: 248}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Scrollbar_Handle: 21300030
+      Ribbon: 21300022
+      Window: 21300036
+      Item_Base: 21300002
+      Ribbon_Base: 21300024
+      Radio_Base: 21300012
+      Item: 21300000
+      Radio: 21300010
+      Window_Small: 21300038
+      Resource_Base: 21300016
+      Scrollbar_Base: 21300028
+      Popup_Highlights: 21300008
+      Ribbon_Highlights: 21300026
+      Star_Base: 21300034
+      Popup_Base: 21300006
+      Resource_Fill: 21300018
+      Resource_Highlights: 21300020
+      Star: 21300032
+      Resource: 21300014
+      Popup: 21300004
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
